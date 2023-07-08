@@ -131,7 +131,7 @@ body{
     justify-content: space-around;
     margin: 70px 0 20px 0;
 }
-.img1, .img2, .img3, .img4, .img5, .img6{
+.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
     width: 30%;
     height: 430px;
     border-radius: 10px;
@@ -164,6 +164,21 @@ body{
 }
 .img6{
     background: url('./img/homepage10.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img7{
+    background: url('./img/felixtech1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img8{
+    background: url('./img/NK-FOOTWEARS.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img9{
+    background: url('./img/felixtech2.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -230,7 +245,7 @@ body{
     .h2-for-work{
         margin: 20% 0 0 0;
     }
-    .img1, .img2, .img3, .img4, .img5, .img6{
+    .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
         width: 80%;
         margin: 20px 0 40px 60px;
     }

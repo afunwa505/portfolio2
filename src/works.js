@@ -27,6 +27,13 @@ const Works = () => {
         
        </div>
 
+       <div className='works'>
+        
+        <div className='img7'></div>
+        <div className='img8'></div>
+        <div className='img9'></div>
+        
+       </div>
         </>
     )
 }

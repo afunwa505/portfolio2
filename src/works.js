@@ -1,5 +1,4 @@
 import './style.css';
-import { Link } from 'react-router-dom';
 const Works = () => {
     return(
         <>
@@ -7,9 +6,7 @@ const Works = () => {
         <p><h2 className='h2-for-work'>RECENTLY COMPLETED WORKS</h2>  <br />
         <hr />
         <br /><br />
-        <Link to="http://nkfootwear.netlify.app">Nk-footwear</Link> <br />
-        <Link to="https://felixtechglobal.netlify.app">FelixTech Global</Link> <br />
-        <Link to="https://x-file.netlify.app">X-File</Link> <br />
+        
         </p>
        <div className='works'>
         

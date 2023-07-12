@@ -7,12 +7,14 @@ import About from './about';
 import Works from './works';
 import Contact from './contact';
 import Service from './service';
+import Design from './component/design';
 import { BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 
 function App() {
   return (
+   
     <div className="App">
-     
+     <Design />
       <Router>
       <Nav />
         <Switch>
@@ -34,6 +36,7 @@ function App() {
 
           <Route path='/contact'>
             <Contact />
+            
           </Route>
 
           <Route path='/cv'>
@@ -42,8 +45,9 @@ function App() {
         </Switch>
 
       </Router>
-     
+      
     </div>
+    
   );
 }
 

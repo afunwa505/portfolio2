@@ -9,9 +9,14 @@ a{
     text-decoration: none;
     font-size: larger;
 }
+a:hover{
+    color: #fd961a;
+}
+/* color-text1 is the color used on my name */
 .color-text1{
     color: #fd961a;
 }
+/* color-text2 is the color of the animated text  */
 .color-text2{
     color: #fd961a;
     padding: 8px 0 40px 0;
@@ -25,6 +30,7 @@ a{
         transform: scale(1);
     }
 }
+/*icon is used for social media icons in contact.js  */
 .icon{
     background: #fefefe;
     border-radius: 7px;
@@ -50,6 +56,7 @@ body{
     display: inline;
     padding: 0 40px 0 10%;
 }
+/* the navigation used for mobile phones  */
 .mobile-nav {
     width: 95%;
     height: 80px;
@@ -65,7 +72,7 @@ body{
     width: 100%;
     display: flex;
 }
-
+/* the article on home.js */
 .article{
     width: 50%;
     height: 420px;
@@ -74,11 +81,13 @@ body{
     border-radius: 20px;
     box-shadow: 5px 5px 20px #000000;
 }
+/* the article on about.js */
 .article2{
     width: 60%;
     padding: 0 10px 0 0;
     margin: 40px 0 0 80px;
 }
+/* more-info is the button in home.js and view-cv is the button in about.js */
 .more-info, .view-cv{
     width: 15%;
     height: 60px;
@@ -90,6 +99,7 @@ body{
     cursor: pointer;
     box-shadow: 5px 5px 2px #000000;
 }
+/* the pic in home.js */
 .pic1{
     width: 30%;
     height: 400px;
@@ -100,6 +110,7 @@ body{
     border-radius: 50%;
     box-shadow: 15px 15px 20px black;
 }
+/* the pic in about.js */
 .pic2{
     width: 30%;
     height: 400px;
@@ -110,27 +121,33 @@ body{
     border-radius: 20px;
     box-shadow: 15px 15px 20px black;
 }
+/* div for cv.js */
 .cv{
     width: 100%;
     text-align: center;
     margin: 40px 0 0 0;  
 }
+/* reveal is the className of the paragraphs in cv.js */
 .reveal{
     padding: 30px 0 0 30px;
 }
+/* div for service.js */
 .service{
     width: 100%;
     margin: 50px 0 0 0;
 }
+/* the h2 and paragraph in service.js */
 .service h2, p{
     padding: 0 10px 0 30px;
 }
+/* div for works.js */
 .works{
     width: 100%;
     display: flex;
     justify-content: space-around;
     margin: 70px 0 20px 0;
 }
+/* the images used in works.js */
 .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
     width: 30%;
     height: 430px;
@@ -182,6 +199,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+/* div for contact.js */
 .contact{
     width: 100%;
     padding: 30px 0 0 50px;
@@ -204,7 +222,7 @@ body{
         left: 2.5%;
         font-size: smaller;
     }
-    
+  
     .container1, .container2{
         flex-direction: column;
     }
@@ -225,6 +243,9 @@ body{
     .more-info, .view-cv{
         width: 25%;
         height: 70px;      
+    }
+    .cv{
+        margin: 20% 0 0 0;
     }
     .pic1{
         width: 80%;

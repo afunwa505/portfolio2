@@ -22,6 +22,7 @@ const Home = () => {
 
             <div className='pic1'></div>
         </div>
+      
         </>
     )
 }

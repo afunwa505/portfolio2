@@ -13,7 +13,7 @@ const Contact = () => {
         <SocialIcon url='https://wa.me/2348065750056' className='icon'></SocialIcon> <br />
         <SocialIcon url='https://github.com/afunwa505?tab=repositories' className='icon'></SocialIcon> 
         <br />
-        E-MAIL : <h2> afunwaemmanuel505@gmail.com </h2>
+        E-MAIL : <h3> afunwaemmanuel505@gmail.com </h3>
         <br /><br />
         <i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
         <br />

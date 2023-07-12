@@ -231,13 +231,13 @@ body{
     }
     .article{
         width: 80%;
-        height: 500px;
+        height: 600px;
         padding: 15px 0 0 10px;
-        margin: 20% 0 80px 60px ;
+        margin: 30% 0 80px 40px ;
     }
     .article2{
-        width: 80%;
-        height: 520px;
+        width: 90%;
+        height: 600px;
         padding: 10px 10px 0 0;
         margin: 40px 0 20px 60px ;
         border-radius: 0 20px 20px 0;

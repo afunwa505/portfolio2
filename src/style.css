@@ -231,9 +231,9 @@ body{
     }
     .article{
         width: 80%;
-        height: 580px;
+        height: 560px;
         padding: 15px 0 0 10px;
-        margin: 45% 0 80px 40px ;
+        margin: 45% 0 80px 30px ;
         font-size: small;
     }
     .article2{
@@ -245,7 +245,7 @@ body{
         box-shadow: 5px 5px 2px #000000;
     }
     .more-info, .view-cv{
-        width: 35%;
+        width: 40%;
         height: 70px;      
     }
     .cv{

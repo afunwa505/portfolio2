@@ -249,7 +249,8 @@ body{
         height: 90px;      
     }
     .cv{
-        margin: 20% 0 0 0;
+        padding: 0 20px 0 0;
+        margin: 45% 0 0 0;
     }
     .pic1{
         width: 90%;

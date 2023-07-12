@@ -223,6 +223,7 @@ body{
         font-size: x-small;
     }
     .fa-home, .fa-info-circle, .fa-wrench, .fa-briefcase, .fa-address-book{
+        padding: 10px 0 7px 0;
         font-size: large;
     }
     .container1, .container2{

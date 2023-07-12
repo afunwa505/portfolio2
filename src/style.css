@@ -230,17 +230,17 @@ body{
         flex-direction: column;
     }
     .article{
-        width: 80%;
+        width: 90%;
         height: 540px;
         padding: 15px 0 0 10px;
         margin: 45% 0 80px 35px ;
         font-size: small;
     }
     .article2{
-        width: 95%;
+        width: 90%;
         height: 600px;
         padding: 10px 10px 0 0;
-        margin: 40px 0 20px 35px;
+        margin: 40px 0 20px 15px;
         border-radius: 0 20px 20px 0;
         box-shadow: 5px 5px 2px #000000;
     }
@@ -257,8 +257,8 @@ body{
         margin: 0 0 20px 15px;
     }
     .pic2{
-        width: 80%;
-        margin: 20% 0 30px 60px;
+        width: 90%;
+        margin: 45% 0 30px 15px;
     }
     .service{
         margin: 20% 0 0 0;

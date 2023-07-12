@@ -17,7 +17,7 @@ const Nav = () => {
         
        <div className='mobile-nav'>
         
-            <Link to='/'> <i class="fa fa-home" aria-hidden="true"></i> <br /> home
+            <Link to='/'> <i class="fa fa-home" aria-hidden="true"></i> <br /> Home
 </Link> 
             <Link to='/about'><i class="fa fa-info-circle" aria-hidden="true"></i> <br />About
 </Link>

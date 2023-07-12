@@ -231,7 +231,7 @@ body{
     }
     .article{
         width: 80%;
-        height: 560px;
+        height: 540px;
         padding: 15px 0 0 10px;
         margin: 45% 0 80px 30px ;
         font-size: small;
@@ -246,7 +246,7 @@ body{
     }
     .more-info, .view-cv{
         width: 40%;
-        height: 70px;      
+        height: 90px;      
     }
     .cv{
         margin: 20% 0 0 0;

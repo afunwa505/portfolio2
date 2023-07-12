@@ -266,14 +266,14 @@ body{
     }
     .works{
         flex-direction: column;
-        margin: 0;
+        margin:45% 0 0 0;
     }
     .h2-for-work{
-        margin: 20% 0 0 0;
+        margin: 45% 0 0 0;
     }
     .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
-        width: 80%;
-        margin: 20px 0 40px 60px;
+        width: 90%;
+        margin: 20px 0 40px 15px;
     }
     .contact{
         padding: 30px 0 0 20px;

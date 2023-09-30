@@ -4,16 +4,7 @@ const CV = () => {
     return(
         <>
         <div className='cv'>
-          <p className='reveal'>
-            DATE OF BIRTH : 14 December 1992 <br /><br />
-            SEX : Male <br /><br />
-            MARITAL STATUS : Single <br /><br />
-            LOCAL GOVERNMENT AREA : Nkanu-West <br /><br />
-            TOWN : Akpugo (Onueke Ani-Ugbo) <br /><br />
-            STATE OF ORIGIN : Enugu State <br /><br />
-            NATIONALITY : Nigeria <br /><br />
-          </p>
-            <hr />
+        
             <p className='reveal'>
                 <h2>PROFESSIONAL SUMMARY</h2> <br />
                 A passionate, goal oriented, and professional Front End Web Developer that loves his work with all his heart and mind. <br /><br />
@@ -35,10 +26,10 @@ const CV = () => {
             <hr />
             <p className='reveal'>
                 <h2>EDUCATION</h2> <br />
-                1998-2004 : St. Brigid Primary School, O`connor ( First School Leaving Certificate) <br /><br />
-                2004-2010 : Government Technical College , Enugu State, Nigeria ( NABTEB) <br /><br />
-                2014-2015 : Our Saviour Institute of Science, Agriculture and Technology, Enugu State, Nigeria ( National Diploma) <br /><br />
-                2021-2022 : Institute of Management and Technology, Enugu State, Nigeria ( Higher National Diploma) <br /><br />
+                2004 : St. Brigid Primary School, O`connor ( First School Leaving Certificate) <br /><br />
+                2010 : Government Technical College , Enugu State, Nigeria ( NABTEB) <br /><br />
+                2015 : Our Saviour Institute of Science, Agriculture and Technology, Enugu State, Nigeria ( National Diploma) <br /><br />
+                2023 : Institute of Management and Technology, Enugu State, Nigeria ( Higher National Diploma) <br /><br />
             </p>
             <hr />
             <p className='reveal'>

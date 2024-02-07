@@ -4,15 +4,7 @@ const CV = () => {
     return(
         <>
         <div className='cv'>
-          <p className='reveal'>
-            DATE OF BIRTH : 14 December 1992 <br /><br />
-            SEX : Male <br /><br />
-            MARITAL STATUS : Single <br /><br />
-            LOCAL GOVERNMENT AREA : Nkanu-West <br /><br />
-            TOWN : Akpugo (Onueke Ani-Ugbo) <br /><br />
-            STATE OF ORIGIN : Enugu State <br /><br />
-            NATIONALITY : Nigeria <br /><br />
-          </p>
+         
             <hr />
             <p className='reveal'>
                 <h2>PROFESSIONAL SUMMARY</h2> <br />

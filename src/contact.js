@@ -17,7 +17,7 @@ const Contact = () => {
         <br /><br />
         <i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
         <br />
-        96 KADUNA STREET, OGUI NEW LAYOUT, OBIAGU, ENUGU STATE, NIGERIA
+        16 Soretire Street, Ogba Ikeja, Lagos State.
         <br /><br />
         <i class="fa fa-phone fa-3x" aria-hidden="true"></i>
         <br />

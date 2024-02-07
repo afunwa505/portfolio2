@@ -46,7 +46,7 @@ const CV = () => {
                 FelixTech Global <br /><br />
                 Vision Data Techs <br /><br />
                  <br /><br />
-                 <br /><br />               
+                              
             </p>
             <hr />
             <p className='reveal'>

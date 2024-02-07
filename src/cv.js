@@ -4,7 +4,6 @@ const CV = () => {
     return(
         <>
         <div className='cv'>
-         
             <hr />
             <p className='reveal'>
                 <h2>PROFESSIONAL SUMMARY</h2> <br />

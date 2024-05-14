@@ -37,8 +37,9 @@ const CV = () => {
             <hr />
             <p className='reveal'>
                 <h2>PLACES I HAVE WORKED</h2> <br />
-                FelixTech Global <br /><br />
                 Vision Data Techs <br /><br />
+                FelixTech Global <br /><br />
+                Codar Hq <br /><br />
                  <br /><br />
                               
             </p>

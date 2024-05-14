@@ -8,7 +8,7 @@ const Home = () => {
             <div className='article'>
                 <h2>Hi there,</h2>
                 <h3 className='color-text1'> Edeh Uchechukwu Emmanuel</h3> 
-                is a passionate and result oriented Front End Web Developer, who loves to use his skills 
+                is a passionate and result oriented Web Developer, who loves to use his skills 
                 and experience in web development to bring into existence awesome and quality websites. <br />
                 I design any kind of website ranging from Landing page, blog, custom website, 
                  Business website, E-commerce website, School website and so on. <br />

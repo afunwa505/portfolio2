@@ -7,7 +7,7 @@ const CV = () => {
             <hr />
             <p className='reveal'>
                 <h2>PROFESSIONAL SUMMARY</h2> <br />
-                A passionate, goal oriented, and professional Front End Web Developer that loves his work with all his heart and mind. <br /><br />
+                A passionate, goal oriented, and professional Web Developer that loves his work with all his heart and mind. <br /><br />
                 Fun to work with, a great team player that can work with a group of people and also a good individual goal getter (One man squad). <br /><br />              
             </p>
             <hr />
@@ -18,7 +18,10 @@ const CV = () => {
                 TAILWIND CSS <br /><br />
                 JAVASCRIPT <br /><br />
                 JQUERY <br /><br />
-                REACT JS <br /><br />                
+                REACT JS <br /><br /> 
+                PHP <br /><br />
+                GIT/GITHUB <br /><br />
+                API INTEGRATION <br /><br />
                 Team Worker <br /><br />
                 Ability to work with little or no supervision<br /><br />
                 Very good written and oral communication skill <br /><br />              

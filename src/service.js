@@ -21,9 +21,9 @@ const Service = () => {
                 <li>JAVASCRIPT</li><br />
                 <li>JQUERY</li><br />
                 <li>REACT JS</li><br />
-<li>php</li><br />
-<li>git/github</li><br />
-<li>API integration<li><br />
+                <li>php</li><br />
+                <li>git/github</li><br />
+                <li>API integration<li><br />
                 </ul> 
         </p>
         </div>

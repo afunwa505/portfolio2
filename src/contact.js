@@ -16,8 +16,6 @@ const Contact = () => {
         E-MAIL : <h3> afunwaemmanuel505@gmail.com </h3>
         <br /><br />
         <i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
-        <br />
-        16 Soretire Street, Ogba Ikeja, Lagos State.
         <br /><br />
         <i class="fa fa-phone fa-3x" aria-hidden="true"></i>
         <br />

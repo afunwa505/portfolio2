@@ -15,8 +15,6 @@ const Contact = () => {
         <br />
         E-MAIL : <h3> afunwaemmanuel505@gmail.com </h3>
         <br /><br />
-        <i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
-        <br /><br />
         <i class="fa fa-phone fa-3x" aria-hidden="true"></i>
         <br />
         <h3>080-657-500-56</h3>
